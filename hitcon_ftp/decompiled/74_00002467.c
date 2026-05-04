@@ -1,4 +1,0 @@
-void clear()
-{
-  free(datain);
-}
