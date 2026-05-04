@@ -1,0 +1,12 @@
+[
+  {
+    "ldc": {
+      "stringConst": "hello-from-myrobot"
+    }
+  },
+  {
+    "return": {
+      "type": "STRING"
+    }
+  }
+]

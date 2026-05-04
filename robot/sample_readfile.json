@@ -1,0 +1,15 @@
+[
+  {
+    "readfile": {
+      "num": 123
+    }
+  },
+  {
+    "b2s": {}
+  },
+  {
+    "return": {
+      "type": "STRING"
+    }
+  }
+]

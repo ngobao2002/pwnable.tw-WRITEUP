@@ -1,0 +1,22 @@
+[
+  {
+    "aconstnull": {}
+  },
+  {
+    "store": {
+      "index": 0,
+      "type": "STRING"
+    }
+  },
+  {
+    "load": {
+      "index": 0,
+      "type": "STRING"
+    }
+  },
+  {
+    "return": {
+      "type": "STRING"
+    }
+  }
+]

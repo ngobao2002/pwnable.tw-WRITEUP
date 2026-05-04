@@ -1,0 +1,18 @@
+[
+  {
+    "ldc": {
+      "stringConst": "STACK"
+    }
+  },
+  {
+    "time": {}
+  },
+  {
+    "b2s": {}
+  },
+  {
+    "return": {
+      "type": "STRING"
+    }
+  }
+]

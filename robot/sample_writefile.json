@@ -1,0 +1,22 @@
+[
+  {
+    "ldc": {
+      "stringConst": "AAA"
+    }
+  },
+  {
+    "writefile": {
+      "num": 123
+    }
+  },
+  {
+    "ldc": {
+      "stringConst": "ok"
+    }
+  },
+  {
+    "return": {
+      "type": "STRING"
+    }
+  }
+]
